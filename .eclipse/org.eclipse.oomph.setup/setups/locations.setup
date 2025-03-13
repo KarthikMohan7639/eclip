@@ -4,29 +4,39 @@
     xmlns:xmi="http://www.omg.org/XMI"
     xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
   <installation>
-    <key href="file:/C:/Users/karth/eclipse/java-2024-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
-    <value href="file:/C:/Users/karth/feb2025/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
-    <value href="file:/C:/Users/karth/eclipse-workspacee/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
-    <value href="file:/C:/Users/karth/eclipse-workspacee/hallo21kar/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
-  </installation>
-  <installation>
     <key href="file:/C:/Users/karth/eclipse/jee-2024-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/karth/eclipse/Spring/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/F:/Hybernate/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/F:/ToDOProJ/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/F:/SERVELET1/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/karth/eclipse-workspace/J2EE/JDBC/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/karth/eclipse-workspace/J2EE/SERVELET/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/karth/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
   </installation>
   <installation>
+    <key href="file:/C:/Users/karth/eclipse/java-2024-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/karth/feb2025/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/karth/eclipse-workspacee/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/karth/eclipse-workspacee/hallo21kar/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
     <key href="file:/C:/Users/karth/eclipse/java-2021-12/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
     <value href="file:/C:/Users/karth/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
   </installation>
+  <workspace>
+    <key href="file:/C:/Users/karth/eclipse/Spring/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/karth/eclipse/jee-2024-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
   <workspace>
     <key href="file:/C:/Users/karth/feb2025/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/karth/eclipse/java-2024-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
   </workspace>
   <workspace>
     <key href="file:/F:/Hybernate/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/karth/eclipse/jee-2024-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/F:/ToDOProJ/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/karth/eclipse/jee-2024-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
   </workspace>
   <workspace>
