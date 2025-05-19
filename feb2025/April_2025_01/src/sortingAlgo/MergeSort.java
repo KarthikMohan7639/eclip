@@ -7,7 +7,9 @@ public class MergeSort {
 	public static void main(String[] args) {
 		int[] arr= {2,1,4,7,5,9,8};
 		System.out.println("Before Sorting: "+Arrays.toString(arr));
-		mergeSort(arr,0,arr.length-1);
+		int left=0;
+		int right=arr.length-1;
+		mergeSort(arr,left,right);
 		
 		
 		
